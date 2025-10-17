@@ -9,4 +9,4 @@ This project is part of the HNG13 DevOps Internship (Stage 0).
 Deploying a Webserver
 
 ## Server Information
-**Server IP / Domain:** _to be added after deployment_
+**Server IP:** http://54.80.247.60/
